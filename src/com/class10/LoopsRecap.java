@@ -11,6 +11,7 @@ public class LoopsRecap {
 			for(int i = 1; i <4; i++) {
 				System.out.println("I am a for loop");
 				condition =false;
+				
 			}
 		}
 	}
