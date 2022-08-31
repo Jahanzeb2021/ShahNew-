@@ -29,7 +29,7 @@ public class ArryOF2DPresident {
 		
 		System.out.println(president1[0][0]+" "+president1[1][0]+", "+president1[0][3]+" "+president1[1][2]);
 		
-
+      
 	}
 
 }
