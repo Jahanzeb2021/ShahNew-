@@ -7,7 +7,7 @@ import javax.swing.Spring;
 public class Repls36 {
 public static void main(String[] args) {
         
-	    String output;
+	    String output = null;
 		String word1, word2;
 		int int1, int2;
 		Scanner scan = new Scanner(System.in);
@@ -29,7 +29,7 @@ public static void main(String[] args) {
 
 		}
 
-		//System.out.println("print "+output);
+	System.out.println("print "+output);
 
 	}
 
